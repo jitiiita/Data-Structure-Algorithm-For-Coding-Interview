@@ -1,4 +1,4 @@
-#Important Data Structure
+# Important Data Structure
 ## Array
 ## List
 ## Stack
@@ -22,7 +22,7 @@
 ### BFS
 ## Trie
    
-#Important Data Structure
+# Important Data Structure
 ## Search Algorithm
 ## Sort Algorithm
 ## Divide & Conquer
