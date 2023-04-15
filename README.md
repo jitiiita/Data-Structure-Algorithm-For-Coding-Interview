@@ -22,7 +22,7 @@
 ### BFS
 ## Trie
    
-# Important Data Structure
+# Important Algorithm
 ## Search Algorithm
 ## Sort Algorithm
 ## Divide & Conquer
