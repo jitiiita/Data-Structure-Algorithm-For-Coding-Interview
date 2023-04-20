@@ -28,6 +28,13 @@
 ## Divide & Conquer
 ## Greedy
 ## Dynamic Programming
+### Classic Dynamic Programming
+- Longest common subsequence
+- Longest increasing subsequence
+- Edit distance
+- Matrix Chain Multiplication
+- 0-1 Knapsack
+### Advance Dynamic Programming
 ## Back tracking
 ## Branch and Bound Algorithm
 ## Randomized Algorithm
