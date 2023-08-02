@@ -38,3 +38,11 @@
 ## Back tracking
 ## Branch and Bound Algorithm
 ## Randomized Algorithm
+## Math
+- Primes
+- GCD
+- Geometry
+- Bases
+  - Binary to Dec
+  - Hex to Dec
+  - etc
