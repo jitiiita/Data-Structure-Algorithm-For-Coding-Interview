@@ -41,9 +41,10 @@
 ## Randomized Algorithm
    - Quick Sort - the fastest solution involves randomized.
 ## Math
-- Primes
-- GCD
-- Geometry
+- Number Theory
+   - Primes, GCD & LCM
+- Geometry and Trigonometry
+- permutations & combinations
 - Bases
   - Binary to Dec
   - Hex to Dec
