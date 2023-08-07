@@ -5,10 +5,10 @@
 ## Queue
 ## Tree
 ### Tree traversal
-- Inorder, pre order, post order
-- DFS, BFS
-- left View, top view, right view
-- Zig-Zag
+   - Inorder, pre order, post order
+   - DFS, BFS
+   - left View, top view, right view
+   - Zig-Zag
 
 ### Binary Seacrh Tree
 ### Ternary Tree
@@ -16,11 +16,17 @@
 ### AVL Tree
 
 ## Heap
-- Priority Queue
+   - Priority Queue
 ## Graph
    - DFS
    - BFS
-## Trie
+
+## String
+   - String matching
+      - KMP
+      - Boyce Moore
+   - Trie
+   - Suffix tree
    
 # Important Algorithm
 ## Search Algorithm
