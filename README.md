@@ -1,4 +1,4 @@
-![image](https://github.com/jitiiita/Data-Structure-Algorithm-For-Coding-Interview/assets/120582768/d95e7f16-552b-42aa-9227-e58d1daec4a7)# Important Data Structure
+# Important Data Structure
 ## Array
 ## List
 ## Stack
