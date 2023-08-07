@@ -18,8 +18,8 @@
 ## Heap
 - Priority Queue
 ## Graph
-### DFS
-### BFS
+   - DFS
+   - BFS
 ## Trie
    
 # Important Algorithm
